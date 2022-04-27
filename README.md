@@ -12,7 +12,7 @@ We are going to create a CRUD app using our knowledge of _routes_ and _controlle
 
 #### 1. Index
 
-* In the `index.js` file, import and use the `bodyParser` in order to ensure that the body from our POST requests is appropriately cast to JSON.
+<!-- * In the `index.js` file, import and use the `bodyParser` in order to ensure that the body from our POST requests is appropriately cast to JSON. -->
 
 #### 2. Routes
 
